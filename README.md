@@ -4,8 +4,8 @@
 Email Me 👉 ✉️ **sradharam2474@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 Projects in progress, skills in devlopment
-- 🌱 **I’m currently learning:** Web devlopment and ML
-- 👯 **I’m looking to collaborate on:** ML
+- 🌱 **I’m currently working AI Forensic Sketch Generation
+- 👯 **I’m looking to collaborate on:** Agentic AI
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sradharam2474@gmail.com
 - ⚡ **Fun fact:** Powered by coffe, curosity, and a whole lot of chaos
