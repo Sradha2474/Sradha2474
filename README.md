@@ -16,6 +16,10 @@
   <a href="https://github.com/Sradha2474"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sradha2474&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 ---
 
 </div>
@@ -29,11 +33,11 @@
 - 📫 **How to reach me:** sradharam2474@gmail.com
 - ⚡ **Fun fact:** Powered by coffe, curosity, and a whole lot of chaos
 
+
 ## 🧰 Tech Stack
 
-<div align="center">
 ### 🧠 AI/ML Engineering & Intelligent Systems
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
@@ -47,6 +51,7 @@
 ### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -82,20 +87,23 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </p>
 
-</div>
-
 ---
 
 ## 📈 GitHub Stats & Streaks
 
 <div align="center">
-  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sradha2474&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sradha's GitHub Stats" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sradha2474&theme=tokyonight&hide_border=true&background=0D1117" alt="Sradha's GitHub Streak" width="49%" />
+  </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sradha2474&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="55%" />
   </p>
 </div>
 
 ---
+---
+
 ## 🎯 Future Goals
 
 - 🧩 **Algorithmic Mastery & Problem Solving**: Deepen DSA problem-solving across advanced graphs, dynamic programming, and greedy algorithms, focusing on optimal time & space complexity.
@@ -104,7 +112,6 @@
 - 🌐 **Open-Source Impact**: Actively contribute to core developer tools, machine learning frameworks, and open-source libraries.
 
 ---
-
 ## 🚀 Let's Connect & Build Together
 
 Whether you want to discuss **Data Structures & Algorithms**, collaborate on **Agentic AI systems**, or build **full-stack software** — feel free to reach out!
