@@ -1,42 +1,144 @@
-# 💫 Hi 👋, I'm Sradha Ram
-**A passionate Frontend Developer|| ML Enthusiast |AI Researcher from India**
-
-Email Me 👉 ✉️ **sradharam2474@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 Projects in progress, skills in devlopment
-- 🌱 **I’m currently working AI Forensic Sketch Generation
-- 👯 **I’m looking to collaborate on:** Agentic AI
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** sradharam2474@gmail.com
-- ⚡ **Fun fact:** Powered by coffe, curosity, and a whole lot of chaos
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sradha-ram-073479232/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ram_sradha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sradharam2474@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sradha2474&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sradha2474&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sradha2474&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+# 💫 Hey there, I'm Sradha Ram 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=AI%2FML+Engineer+%7C+Builder+at+Heart;Shipping+Agentic+AI+%26+LLM+Pipelines;RAG+Architectures+%26+Real-World+Products;Deep+Learning+%26+Computer+Vision+Researcher)](https://git.io/typing-svg)
+
+<p align="center">
+  <strong>AI that actually ships — from research to real products.</strong><br>
+  B.Tech in Computer Science (AI & ML) @ C.V. Raman Global University, Bhubaneswar
+</p>
+
+<p align="center">
+  <a href="https://sradha-portfolio-w445.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sradha-ram-073479232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sradharam2474@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Sradha2474"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+---
+
 </div>
 
+## 🚀 About Me
+
+- 🔭 **Currently Building**: [Multi-Agent Customer Support Triage Bot](https://github.com/Sradha2474/Multi-Agent-Customer-Support-Triage-Bot) & [ScamShield AI](https://github.com/Sradha2474/ScamShield-AI).
+- 🌱 **Research Focus**: AI Forensic Sketch-to-Photo Generation using Deep Learning & Diffusion Models.
+- 🏆 **Awards & Recognitions**:
+  - **5th Place Winner** at the **6th Mitsubishi Electric Cup (MECA 2026)** — solution tied to **2 filed patents**.
+  - **Winner Tier** at **Razorpay AI Buildathon (Track 03)** for [Revene AI](https://github.com/Sradha2474/Revene-AI).
+  - Selected for the **Delta Program Innovation Cohort**.
+  - Finalist in **Smart India Hackathon (SIH 2024 & 2025)**.
+- 👯 **Looking to Collaborate On**: Agentic AI workflows, LLM reasoning pipelines, and open-source developer tooling.
+- 💬 **Ask Me About**: Python, LangChain, PyTorch, RAG Pipelines, FastAPI, React/Next.js, and scaling ML APIs.
+- ⚡ **Fun Fact**: *Turning coffee, research papers, and curiosity into robust systems that don't break in production.*
+
+---
+
+## 🛠️ Projects I'm Working On
+
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :---: |
+| **Multi-Agent Triage Bot** | Real-time NLP review intelligence & executive analytics with sub-50ms DistilBERT + Groq LLaMA 3.1 root-cause diagnosis. | `Python` `LangChain` `Supabase` `React` | [Code ↗](https://github.com/Sradha2474/Multi-Agent-Customer-Support-Triage-Bot) |
+| **ScamShield AI** | Intelligent agentic honeypot detecting scams, engaging fraudsters with AI personas, and extracting threat intelligence. | `FastAPI` `LangChain` `OpenAI` `Python` | [Code ↗](https://github.com/Sradha2474/ScamShield-AI) |
+| **Revene AI** | Autonomous AI agent recovering at-risk payment transactions using predictive ML models and bounded policy rules. | `React` `TypeScript` `Python` `TailwindCSS` | [Code ↗](https://github.com/Sradha2474/Revene-AI) |
+| **Mitsubishi Help Assistant** | RAG Telegram chatbot for industrial PLC support & documentation retrieval. 5th place winner, 2 patents filed. | `Python` `LangChain` `OpenAI` `Telegram` | [Code ↗](https://github.com/Sradha2474/Mitsubishi-Help-Assistant-Chatbot-) |
+| **AI Forensic Sketch Generator** | Deep learning framework transforming forensic pencil sketches into photo-realistic reconstructions for investigation. | `PyTorch` `OpenCV` `Python` `FastAPI` | [Research ↗](https://github.com/Sradha2474) |
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+### 🧠 AI / Machine Learning & LLM Pipelines
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
+### ⚙️ Backend, Cloud & Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+</p>
+
+### 🎨 Frontend & Design
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### 🛠️ Developer Tools & DevOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sradha2474&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sradha2474&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 GitHub Stats & Streaks
+
+<div align="center">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sradha2474&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sradha's GitHub Stats" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sradha2474&theme=tokyonight&hide_border=true&background=0D1117" alt="Sradha's GitHub Streak" width="49%" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sradha2474&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="55%" />
+  </p>
+</div>
+
+---
+
+## 🚀 Let's Build Together
+
+If you are exploring **Agentic AI systems**, building **high-impact ML architectures**, or hacking on **open-source developer tools** — let's connect!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sradha-portfolio-w445.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sradha-ram-073479232/)
+[![Email](https://img.shields.io/badge/Drop_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sradharam2474@gmail.com)
+
+<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sradha2474&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<sub>Designed with ⚡ by <a href="https://github.com/Sradha2474">Sradha Ram</a></sub>
 
----
-[![](https://visitcount.itsvg.in/api?id=Sradha2474&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
