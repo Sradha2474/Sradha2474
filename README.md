@@ -45,7 +45,7 @@
 </p>
 
 ### 💻 Programming Languages
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -54,7 +54,7 @@
 </p>
 
 ### ⚙️ Backend, Cloud & Databases
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -65,7 +65,7 @@
 </p>
 
 ### 🎨 Frontend & UI Engineering
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -74,7 +74,7 @@
 </p>
 
 ### 🛠️ Developer Tools & DevOps
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -89,10 +89,7 @@
 ## 📈 GitHub Stats & Streaks
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sradha2474&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sradha's GitHub Stats" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sradha2474&theme=tokyonight&hide_border=true&background=0D1117" alt="Sradha's GitHub Streak" width="49%" />
-  </p>
+  
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sradha2474&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="55%" />
   </p>
