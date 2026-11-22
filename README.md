@@ -29,30 +29,9 @@
 - 📫 **How to reach me:** sradharam2474@gmail.com
 - ⚡ **Fun fact:** Powered by coffe, curosity, and a whole lot of chaos
 
----
-
-## 🎯 Future Goals
-
-- 🧩 **Algorithmic Mastery & Problem Solving**: Deepen DSA problem-solving across advanced graphs, dynamic programming, and greedy algorithms, focusing on optimal time & space complexity.
-- 🤖 **End-to-End AI/ML Engineering**: Design and scale production-grade Agentic AI workflows, LLM reasoning pipelines, and low-latency inference APIs.
-- 🏗️ **Scalable Software Architecture**: Architect robust, fault-tolerant backend systems and full-stack applications that scale seamlessly.
-- 🌐 **Open-Source Impact**: Actively contribute to core developer tools, machine learning frameworks, and open-source libraries.
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
-
-### 🧩 Problem Solving & Core CS
-<p align="center">
-  <img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="Data Structures" />
-  <img src="https://img.shields.io/badge/Algorithms-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Algorithms" />
-  <img src="https://img.shields.io/badge/Dynamic_Programming-4B5563?style=for-the-badge&logo=codeforces&logoColor=white" alt="Dynamic Programming" />
-  <img src="https://img.shields.io/badge/OOP-EA4335?style=for-the-badge&logo=java&logoColor=white" alt="OOP" />
-  <img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="System Design" />
-</p>
-
 ### 🧠 AI/ML Engineering & Intelligent Systems
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -68,7 +47,6 @@
 ### 💻 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -108,25 +86,25 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sradha2474&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 📈 GitHub Stats & Streaks
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sradha2474&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sradha's GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sradha2474&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sradha's GitHub Stats" width="49%" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sradha2474&theme=tokyonight&hide_border=true&background=0D1117" alt="Sradha's GitHub Streak" width="49%" />
   </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sradha2474&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="55%" />
   </p>
 </div>
+
+---
+## 🎯 Future Goals
+
+- 🧩 **Algorithmic Mastery & Problem Solving**: Deepen DSA problem-solving across advanced graphs, dynamic programming, and greedy algorithms, focusing on optimal time & space complexity.
+- 🤖 **End-to-End AI/ML Engineering**: Design and scale production-grade Agentic AI workflows, LLM reasoning pipelines, and low-latency inference APIs.
+- 🏗️ **Scalable Software Architecture**: Architect robust, fault-tolerant backend systems and full-stack applications that scale seamlessly.
+- 🌐 **Open-Source Impact**: Actively contribute to core developer tools, machine learning frameworks, and open-source libraries.
 
 ---
 
