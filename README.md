@@ -89,19 +89,33 @@
 
 ---
 
+
 ## 📈 GitHub Stats & Streaks
 
 <div align="center">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sradha2474&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Sradha's GitHub Stats" width="49%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sradha2474&theme=tokyonight&hide_border=true&background=0D1117" alt="Sradha's GitHub Streak" width="49%" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sradha2474&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="55%" />
-  </p>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Sradha2474&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="Sradha's GitHub Stats"
+    width="49%"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sradha2474&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="Sradha's GitHub Streak"
+    width="49%"
+  />
+
+  <br/><br/>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sradha2474&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    alt="Top Languages"
+    width="55%"
+  />
+
 </div>
 
----
 ---
 
 ## 🎯 Future Goals
