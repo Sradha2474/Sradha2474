@@ -125,7 +125,7 @@
 ---
 ## 🚀 Let's Connect & Build Together
 
-Whether you want to discuss **Data Structures & Algorithms**, collaborate on **Agentic AI systems**, or build **full-stack software** — feel free to reach out!
+Whether you want to duscuss **Data Structures & Algorithms**, collaborate on **Agentic AI systems**, or build **full-stack software** — feel free to reach out!
 
 <div align="center">
 
